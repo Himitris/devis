@@ -27,8 +27,11 @@
         "origin": false
       },
       "eas": {
-        "projectId": "a9e2d7fd-8ed9-4cbd-8058-d7e8da461f89"
+        "projectId": "454880c7-096a-4b25-87a8-6f8c8e733917"
       }
+    },
+    "android": {
+      "package": "com.himitris.devis"
     }
   }
 }
